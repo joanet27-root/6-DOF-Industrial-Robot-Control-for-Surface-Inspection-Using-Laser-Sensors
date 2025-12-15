@@ -1,0 +1,2 @@
+# 6-DOF-Industrial-Robot-Control-for-Surface-Inspection-Using-Laser-Sensors
+This project addresses the design and control of a six-degree-of-freedom industrial robot capable of adjusting its trajectory based on a plane dynamically reconstructed using laser sensors. This plane provides a geometric reference that enables correction of the robot’s end-effector pose, compensating for unforeseen disturbances.
