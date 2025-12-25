@@ -13,6 +13,11 @@ Traditional industrial inspection setups often assume a **static part**, allowin
 Without online compensation, these disturbances lead to deviations between the intended inspection path and the actual TCP trajectory.
 
 ---
+## Demo
+**Video demo:**  
+[https://joanet27-root.github.io/assets/PiedraPapelTijeraLagartoSpock.mp4](https://youtu.be/aCbfkavDGe8?si=GrlXVNVW2x0VE0ED)
+
+---
 
 ## Proposed Approach
 The proposed control strategy introduces **real-time trajectory correction** based on laser sensor feedback:
