@@ -15,7 +15,7 @@ Without online compensation, these disturbances lead to deviations between the i
 ---
 ## Demo
 **Video demo:**  
-[https://joanet27-root.github.io/assets/PiedraPapelTijeraLagartoSpock.mp4](https://youtu.be/aCbfkavDGe8?si=GrlXVNVW2x0VE0ED)
+https://youtu.be/aCbfkavDGe8?si=GrlXVNVW2x0VE0ED
 
 ---
 
