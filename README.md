@@ -96,7 +96,3 @@ The main scene includes the robot model, laser sensors, and the control logic im
 └── README.md
 ```
 
----
-
-## Reference
-- Project report: *Control de un Robot Industrial de 6 GdL*
