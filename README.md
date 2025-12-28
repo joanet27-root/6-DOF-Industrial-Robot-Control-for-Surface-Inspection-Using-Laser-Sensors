@@ -87,7 +87,7 @@ The main scene includes the robot model, laser sensors, and the control logic im
 
 ---
 
-## Authors
+## Author
 - Joan Carrillo   
 
 ---
